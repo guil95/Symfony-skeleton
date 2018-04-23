@@ -1,6 +1,6 @@
 #index:
 #    path: /
 #    controller: App\Controller\DefaultController::index
-app_teste:
-    path: /teste
-    controller: App\Controller\TesteController::teste
+#app_teste:
+#    path: /teste
+#    controller: App\Controller\TesteController::teste
